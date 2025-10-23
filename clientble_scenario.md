@@ -7,7 +7,7 @@
 # Сценарии работы SDK
 
 #### [Базовый сценарий](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_scenario#базовый-сценарий-для-sdk)
-#### [Фоновый сценарий](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_scenario#быстрый-сценарий-для-sdk)
+#### [Фоновый сценарий](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_scenario#фоновый-сценарий-для-sdk)
 #### [Разлогирование_пользователя](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_scenario#разлогирование-пользователя)
 
 <br>

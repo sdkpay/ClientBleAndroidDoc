@@ -1,6 +1,6 @@
 # [ClientBleAndroidDoc](https://sdkpay.github.io/ClientBleAndroidDoc/)
 
-#### [Сценарии работы с SDK](https://sdkpay.github.io/ClientBleAndroidDoc/sdk_scenario) | [Сущности и классы](https://sdkpay.github.io/ClientBleAndroidDoc/sdk_classes) | [Актуальная версия SDK](https://sdkpay.github.io/ClientBleAndroidDoc/sdk_version)
+#### [Сценарии работы с SDK](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_scenario) | [Сущности и классы](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_classes) | [Актуальная версия SDK](https://sdkpay.github.io/ClientBleAndroidDoc/clientble_version)
 
 <br>
 
